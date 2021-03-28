@@ -1,0 +1,2 @@
+# WetWorldDatabaseQuery
+SQL query practice
